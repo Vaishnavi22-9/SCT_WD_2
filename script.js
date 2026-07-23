@@ -61,4 +61,4 @@ function lap(){
     li.innerHTML=document.getElementById("display").innerHTML;
 
     document.getElementById("laps").appendChild(li);
-}+
+}
